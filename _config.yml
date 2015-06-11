@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ben Fourie
+tagline:          Developer. Adventurer.
+url:              http://benfourie.net
+
+author:
+  name:           Ben Fourie
+  url:            http://benfourie.net
+
+paginate:         5
